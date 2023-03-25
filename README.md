@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h3 align="center">Hey there, I'm Md. Niaj Makhdum <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=rafi021&label=Profile%20views&color=0e75b6&style=flat" alt="Mahmud Ibrahim" />
+<img src="https://komarev.com/ghpvc/?username=rafi021&label=Profile%20views&color=0e75b6&style=flat" alt="Md. Niaj Makhdum" />
 </p>
 
 ### 📖 About me
@@ -27,10 +27,10 @@ I am a Full Stack Web Developer. I am working with Laravel, PHP, Vue, TypeScript
  ### 🕵🏻‍♂️ Conect with me
  
   <p align="center">
- <a href="https://www.facebook.com/mahmud.ibrahim/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="facebook" width="30" height="30"/>
- <a href="https://www.linkedin.com/in/mahmud-ibrahim-4917ba21a/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="30" height="30"/>
+ <a href="https://www.facebook.com/mdniajmakhdum.bd/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="facebook" width="30" height="30"/>
+ <a href="https://www.linkedin.com/in/mdniajmakhdum/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="30" height="30"/>
   <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/codepen/codepen-icon.svg" alt="codepen" width="30" height="30"/>
- <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="twitter" width="30" height="30"/>
+ <a href="https://twitter.com/mdniajmakhdum" target="_blank"> <img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="twitter" width="30" height="30"/>
  <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="stackoverflow" width="30" height="30"/>
   <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pinterest/pinterest-icon.svg" alt="pinterest" width="30" height="30"/>
   <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/skype/skype-icon.svg" alt="skype" width="30" height="30"/>
